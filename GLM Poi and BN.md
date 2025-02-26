@@ -154,6 +154,6 @@ tidy_model_bn %>%
 
 ### Per the summary we can get
 + Significance of the interaction age x height, results must be analyzed considering this and not the variable's simple effect: the number of cones depends on the joint effect of these variables.
-+ Estimated deviance (`r round(summary(model_bn)$deviance,4)` %)
++ Estimated deviance  = `r round(summary(model_bn)$deviance,4)` %
 + Aggregation factor (Theta = `r round(summary(model_bn)$theta,3)`)
 
