@@ -22,7 +22,8 @@ This project performs statistical modelling of fertility in the invasive species
 ---
 
 ## ✍️ **Author**  
-Yair Barnatan
+
+**Yair Barnatan**
 
 [LinkedIn](https://www.linkedin.com/in/yair-barnatan/) | [GitHub](https://github.com/ybarnatan)
 
