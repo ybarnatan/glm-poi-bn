@@ -16,7 +16,7 @@ This project performs statistical modelling of fertility in the invasive species
 
 ### 💻 Stack
 * R
-* R Markdown (.Rmd)
+* R Markdown 
 * Libraries for data wrangling, visualization, and statistical modeling: `carData`, `ggplot2`, `car`, `MASS`, `ggpubr`, `equatiomatic`
 
 ---
